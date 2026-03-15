@@ -1,0 +1,2 @@
+# homebrew-musicli
+musicli homebrew
